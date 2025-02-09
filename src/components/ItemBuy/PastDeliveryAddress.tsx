@@ -1,4 +1,4 @@
-import { AddressOption } from './ItemBuyForm';
+import { AddressOption } from './ItemBuy/ItemBuyForm';
 
 export const PastDeliveryAddress = ({
   disabled,
